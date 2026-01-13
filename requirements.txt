@@ -1,8 +1,4 @@
-import re
-import zipfile
-import tempfile
-from pathlib import Path
-
-import pandas as pd
-import streamlit as st
-import altair as alt
+streamlit
+pandas
+altair
+openpyxl
